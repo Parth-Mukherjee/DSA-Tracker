@@ -10,7 +10,8 @@ namespace DSA_Tracker
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Parth !");
+            Console.WriteLine("Hello Parth, Lets start working.");
+
             Console.ReadLine();
         }
     }
