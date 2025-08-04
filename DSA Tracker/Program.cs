@@ -11,11 +11,6 @@ namespace DSA_Tracker
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Parth, Lets start working.");
-            Console.WriteLine("Development Branch");
-            
-            
 
-            Console.ReadLine();
-        }
     }
 }
