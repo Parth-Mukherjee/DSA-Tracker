@@ -21,7 +21,7 @@ namespace DSA_Tracker
                 Console.WriteLine("Entered Value is: " + value);
             }
             else {
-                Console.WriteLine("Kindly enter Interger");
+                Console.WriteLine("Kindly enter Integer Value");
             }
 
             Console.ReadLine();
