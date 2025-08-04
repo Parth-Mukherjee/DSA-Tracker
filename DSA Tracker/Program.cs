@@ -12,8 +12,6 @@ namespace DSA_Tracker
         {
             Console.WriteLine("Master Branch");
             Q1.Question1();
-            Console.ReadLine();
-
         }
     }
 }
