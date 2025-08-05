@@ -11,8 +11,10 @@ namespace DSA_Tracker
         static void Main(string[] args)
         {
             Console.WriteLine("Development Branch");
-            Q1.Question1();
-
+            //Q1.Question1();
+            //Q2_Easy.CheckGrade();
+            Q4_Easy.GetDay();
+            Console.ReadLine();
         }
     }
 }
